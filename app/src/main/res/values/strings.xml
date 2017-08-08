@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningTesting</string>
+    <string name="network_error">Error de conexion</string>
+</resources>

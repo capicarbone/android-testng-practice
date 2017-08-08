@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/LearningTesting.iml" filepath="$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/LearningTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/app/app.iml" filepath="$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/dsy-utils/dsy-utils.iml" filepath="$PROJECT_DIR$/../../../../capi-principal/capi/Repositorios/dsarhoya/LearningTesting/dsy-utils/dsy-utils.iml" />
+    </modules>
+  </component>
+</project>

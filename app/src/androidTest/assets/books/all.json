@@ -1,0 +1,62 @@
+[
+  {
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "pages_count": 320
+  },
+  {
+    "title": "Drácula",
+    "author": "Bram Stoker",
+    "pages_count": 1300
+  },
+  {
+    "title": "El Retrato de Dorian Gray",
+    "author": "Oscar Wilde",
+    "pages_count": 1300
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "author": "Jane Austen",
+    "pages_count": 1300
+  },
+  {
+    "title": "Cumbres Borrascosas",
+    "author": "Emily Brontë",
+    "pages_count": 1300
+  },
+  {
+    "title": "Tom Sawyer",
+    "author": "Mark Twain",
+    "pages_count": 1300
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "pages_count": 1300
+  },
+  {
+    "title": "La Guerra y la Paz",
+    "author": "León Tostoi",
+    "pages_count": 1300
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "pages_count": 1300
+  },
+  {
+    "title": "La Divina Comedia",
+    "author": "Dante Alighieri",
+    "pages_count": 1300
+  },
+  {
+    "title": "Fausto",
+    "author": "Goethe",
+    "pages_count": 1300
+  },
+  {
+    "title": "Romeo y Julieta",
+    "author": "Shakespeare",
+    "pages_count": 1300
+  }
+]
